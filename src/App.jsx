@@ -1,8 +1,9 @@
-import './App.css'
+import ToDoList from './Todolist'
 
 const App = () => {
   return (
     <>
+    <ToDoList></ToDoList>
     </>
   )
 }
