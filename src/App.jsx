@@ -1,11 +1,10 @@
-import ToDoList from './Todolist'
+import List from "./ToDoList"
 
-const App = () => {
-  return (
-    <>
-    <ToDoList></ToDoList>
-    </>
+const App = () =>  {
+  return(
+  <>
+  <List></List>
+  </>
   )
 }
-
 export default App
